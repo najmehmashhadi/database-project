@@ -1,0 +1,4 @@
+python node1.py
+set 5 8
+get 5
+cal
